@@ -9,6 +9,7 @@ http://www.unswmathsoc.com/resources/first-year-solutions/
 
 Tips & Tricks:
 https://www.maths.unsw.edu.au/sites/default/files/hsc_tips_and_tricks_open_day_booklet_2015.pdf
+
 Graphs:
 https://www.desmos.com/calculator/kihjluohq9
 
