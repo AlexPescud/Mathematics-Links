@@ -10,6 +10,9 @@ http://www.unswmathsoc.com/resources/first-year-solutions/
 CSU Resources:
 http://csusap.csu.edu.au/~mkemp/mth101.html
 
+Interactive Mathematics:
+http://www.intmath.com/exponents-radicals/2-fractional-exponent-laws.php
+
 People in the Spotlight - UNSW:
 https://www.maths.unsw.edu.au/about/spotlight-on-daniel-altman
 
